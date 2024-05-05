@@ -24,6 +24,17 @@
   color: white;
 }
 
+nav {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  align-items: center;
+}
+
+.active {
+  color: red;
+}
+
 .App-link {
   color: #61dafb;
 }
